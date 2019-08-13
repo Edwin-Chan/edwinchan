@@ -1,0 +1,44 @@
+{
+  "name": "edwinchan",
+  "description": "Hi I am Edwin!",
+  "version": "1.0.0",
+  "author": {
+    "name": "Edwin Chan",
+    "email": "edwinfychan@hotmail.com",
+    "url": "https://edwinfychan.com/"
+  },
+  "bin": {
+    "edwinchan": "./bin/cmd.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Edwin-Chan/edwinchan/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "standard": "*"
+  },
+  "homepage": "https://github.com/Edwin-Chan/edwinchan",
+  "keywords": [
+    "business card",
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "edwin",
+    "edwin chan"
+  ],
+  "license": "MIT",
+  "main": "./bin/cmd.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Edwin-Chan/edwinchan.git"
+  },
+  "scripts": {
+    "build": "node ./tools/build.js",
+    "start": "npm run build && ./bin/cmd.js",
+    "test": "standard"
+  }
+}
