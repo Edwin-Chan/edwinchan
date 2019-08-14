@@ -1,4 +1,9 @@
-# Edwin Chan [![npm][https://img.shields.io/npm/v/edwinchan.svg]][https://npmjs.org/package/edwinchan] [![downloads][https://img.shields.io/npm/dm/edwinchan.svg]][https://npmjs.org/package/edwinchan]
+# Edwin Chan [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] 
+
+[npm-image]: https://img.shields.io/npm/v/edwinchan.svg
+[npm-url]: https://npmjs.org/package/edwinchan
+[downloads-image]: https://img.shields.io/npm/dm/edwinchan.svg
+[downloads-url]: https://npmjs.org/package/edwinchan
 
 ## Introduction
 
